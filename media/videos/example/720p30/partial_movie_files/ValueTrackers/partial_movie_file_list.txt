@@ -1,0 +1,4 @@
+# This file records the segment order used by Manim.
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/ValueTrackers/cfe2844c1c4a2e78ab58b999a7ae704f8360450572c28747fca81efb61064b5d.mp4'
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/ValueTrackers/7340f3bf9ee133e8d96a594f4bfc7ebc71d726ca044006b1da74e54e8cac03e4.mp4'
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/ValueTrackers/03009ee5bdbd038723be8e0624252351f2624ea5fa3ec10fb678b6c67423d51e.mp4'

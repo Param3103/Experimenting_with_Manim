@@ -1,0 +1,2 @@
+# This file records the segment order used by Manim.
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/Errors/bbba5b63da35b3373e79ceca3b24b771c1930617fa067f01a99b9c6fa3c5c19d.mp4'

@@ -1,0 +1,8 @@
+# This file records the segment order used by Manim.
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/Testing/8852b033c7fe79a7ac708d333a973764e689b83ee54253fc0118ca1b703ad3c1.mp4'
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/Testing/76a18e3e3e1e9d38b8bedfe9fa4847fc91b3da3e2e28ba68839191a957633ddf.mp4'
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/Testing/d4da5d57033a631a33616a8a6dcd9deb0331577a60ff6cf3bd80ef636b70bb97.mp4'
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/Testing/0cb6139c5e69fd897dd25571fd1257d934f6b6a4259d84d965da673387da937d.mp4'
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/Testing/7f2c5dce06fb62d39d8efc294112854e8bdfff1fbf2d884898a64e7e09ff4850.mp4'
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/Testing/1fd80ce1cf38c8fc45ddb1d7ae6927f1ebd8b0733c9599e2eaab99f9ef015ce6.mp4'
+file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/720p30/partial_movie_files/Testing/d6d3eef1af5c24304a32b05a7aaaf02f56884c6343f39f61432912964acfce4f.mp4'
