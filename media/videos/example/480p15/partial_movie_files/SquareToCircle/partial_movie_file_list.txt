@@ -1,4 +1,0 @@
-# This file records the segment order used by Manim.
-file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/480p15/partial_movie_files/SquareToCircle/c204b7ebe50ca0d5022dbc25bb03b3df7a924136aafc00ecbd03c61fe39f929d.mp4'
-file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/480p15/partial_movie_files/SquareToCircle/bc2faf7f45ed08e52282ced6804d183b32cb76ba2220cb3203893404fb76fa54.mp4'
-file 'file:C:/Users/param/CodingWorkspace/Experimenting_with_Manim/media/videos/example/480p15/partial_movie_files/SquareToCircle/e11c45f8b6b4f5331a3ff13f7b47831d5372ca0aa9f74a3eab39704135cb1783.mp4'
